@@ -7,4 +7,3 @@
 .*
 
 # But keep .gitignore itself
-!.gitignore
